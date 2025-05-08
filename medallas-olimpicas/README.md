@@ -4,6 +4,7 @@ Este proyecto explora los datos históricos de medallas obtenidas por los paíse
 
 ## 📁 Estructura del Proyecto
 
+```
 medallas-olimpicas/
 │
 ├── data/ # Datos utilizados en los análisis
@@ -21,6 +22,7 @@ medallas-olimpicas/
 ├── src/ # Scripts (scraping y preparación)
 │
 └── README.md
+```
 
 ## ✨ Análisis Realizados
 
