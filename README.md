@@ -1,20 +1,19 @@
 # Portfolio 
 
-¡Bienvenido a mi portfolio! Soy Carlos Huallpa, apasionado por las ciencias básicas y la informática con experiencia en análisis de datos, programación y desarrollo de software. En este Portfolio, podrás encontrar algunos de los proyectos quen los que he trabajado recientemente.
+¡Bienvenido a mi portfolio! Soy Carlos Huallpa, biologo apasionado por las ciencias básicas y la informática con experiencia en análisis de datos, programación y desarrollo de software. En este Portfolio, vas a encontrar algunos de los proyectos en los que he trabajado recientemente.
 
 ## Acerca de mí
 
-Como licenciado en Ciencias Biológicas tengo una sólida formación en Biología, Matemática y Química. A lo largo de mi carrera, he desarrollado una gran habilidad para analizar datos de investigación y utilizar herramientas de programación para resolver problemas complejos. Mi enfoque está en la mejora continua y en aplicar la ciencia de manera práctica y eficiente.
+Como licenciado en Ciencias Biológicas tengo una sólida formación en Biología, Matemática y Química. A lo largo de mi carrera, desarrollé una gran habilidad para analizar datos de investigación y utilizar herramientas de programación para resolver problemas complejos. Mi enfoque está en la mejora continua y en aplicar la ciencia de manera práctica y eficiente.
 
 ## Habilidades
 
 - **Lenguajes de Programación**: Python, JavaScript, SQL
-- **Tecnologías**: Flask, Django, Node.js, Express
-- **Bases de Datos**: MySQL, PostgreSQL
+- **Bases de Datos**: MySQL
 - **Herramientas de Visualización**: Matplotlib, Seaborn, Plotly, Chart.js
-- **Análisis de Datos**: Pandas, Numpy, Scikit-learn
-- **Desarrollo Web**: HTML, CSS, JavaScript, EJS, jQuery
-- **Otras herramientas**: Git, Docker, Google Colab
+- **Análisis de Datos**: Pandas, Numpy
+- **Desarrollo Web**: HTML, CSS, JavaScript
+- **Otras herramientas**: Git, Google Colab
 
 ## Proyectos Destacados
 
@@ -25,7 +24,7 @@ Este proyecto analiza las medallas ganadas por los países en los Juegos Olímpi
 - **Tecnologías utilizadas**: Python, Pandas, Seaborn, Matplotlib, Jupyter Notebooks
 - **Enlace a Proyecto**: [Repositorio en GitHub](https://github.com/tu_usuario/medallas-olimpicas)
 
-### 2. **Gestión de Actividades en un Club**
+### 2. **Gestión de Actividades de Clubes**
 
 Una aplicación para la gestión de actividades de un club, donde los usuarios pueden registrarse, inscribirse a actividades y ver su historial. Además, el administrador puede gestionar las actividades y los usuarios.
 
@@ -38,13 +37,6 @@ Un sistema que utiliza un ESP32 y un sensor DS18B20 para monitorear y controlar 
 
 - **Tecnologías utilizadas**: ESP32, MQTT, Python, MySQL, Railway
 - **Enlace a Proyecto**: [Repositorio en GitHub](https://github.com/tu_usuario/control-temperatura-esp32)
-
-### 4. **Aplicación Web para Gestión de Usuarios y Actividades**
-
-Una aplicación web desarrollada para gestionar usuarios, actividades e inscripciones en una plataforma de club. Los usuarios pueden registrarse, inscribirse a actividades y los administradores pueden gestionar las inscripciones y generar informes.
-
-- **Tecnologías utilizadas**: Node.js, Express, EJS, MongoDB
-- **Enlace a Proyecto**: [Repositorio en GitHub](https://github.com/tu_usuario/club-gestion)
 
 ## Contacto
 
