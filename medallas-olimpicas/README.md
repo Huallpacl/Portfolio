@@ -1,6 +1,13 @@
 # Análisis de Medallas Olímpicas
 
-Este proyecto explora los datos históricos de medallas obtenidas por los países en los Juegos Olímpicos. Utiliza scraping, limpieza de datos y análisis visual para descubrir patrones, tendencias y comparaciones significativas.
+Este proyecto explora los datos históricos de medallas obtenidas por los países en los Juegos Olímpicos (edición verano). Utiliza scraping, limpieza de datos y análisis visual para descubrir patrones, tendencias y comparaciones significativas.
+
+## 📋 Consideraciones Iniciales
+
+- Solo se consideran registros de países con al menos una medalla en un evento olímpico de verano.
+- Rusia, el Imperio Ruso y la URSS se incluyen dentro del continente Europeo, en línea con su tratamiento histórico.
+- Los datos cubren desde las primeras ediciones modernas (1896) hasta la actualidad (2024), con medallas clasificadas en oro, plata, bronce y total.
+
 
 ## 📁 Estructura del Proyecto
 
@@ -8,8 +15,8 @@ Este proyecto explora los datos históricos de medallas obtenidas por los paíse
 medallas-olimpicas/
 │
 ├── data/ # Datos utilizados en los análisis
-│ ├── medallas.csv
-│ └── medallas_historicas.csv
+│ ├── medallas_historicas.csv
+│ └── pais_continente.csv
 │
 ├── notebooks/ # Notebooks Jupyter con los análisis
 │ ├── analisis-medallas.ipynb # Análisis general
