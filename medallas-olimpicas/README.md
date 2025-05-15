@@ -23,7 +23,6 @@ medallas-olimpicas/
 │
 └── README.md
 ```
-
 ## ✨ Análisis Realizados
 
 - **Análisis General de Medallas:** evolución de las medallas totales por año y país.
