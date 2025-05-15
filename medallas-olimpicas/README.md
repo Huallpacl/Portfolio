@@ -8,6 +8,12 @@ Este proyecto explora los datos históricos de medallas obtenidas por los paíse
 - Rusia, el Imperio Ruso y la URSS se incluyen dentro del continente Europeo, en línea con su tratamiento histórico.
 - Los datos cubren desde las primeras ediciones modernas (1896) hasta la actualidad (2024), con medallas clasificadas en oro, plata, bronce y total.
 
+## 🛠 WorkFlow
+
+## 1. Recopilación de datos:
+-Se utilizó "Selenium" para realizar web scrapping de diferentes tablas históricas de medalleros olímpicos de verano (fuente: Wikipedia (EN))
+- El scraping automatizado extrajo datos de medallas por país y edición.
+- Los datos fueron guardados en archivos csv para su posterior análisis.
 
 ## 📁 Estructura del Proyecto
 
@@ -34,13 +40,13 @@ medallas-olimpicas/
 
 - **Análisis General de Medallas:** evolución de las medallas totales por año y país.
 - **Top 10 Países Históricos:** identificación de los países con más medallas en distintos años.
-- **Ranking Histórico (Bonus):** visualización tipo *heatmap* con la posición en el ranking de los países más frecuentes en el Top 10.
+
 
 ## 📊 Visualizaciones Destacadas
 
 Las imágenes generadas en los análisis están guardadas en la carpeta `/images` para que puedan verse directamente en el repositorio.
 
-- ![frecuencia_en_top10](images/frecuencia_en_top10.png)
+- ![Apariciones en top 10 de paises más frecuentes](images/top10_apariciones.png)
 
 ## ⚙️ Tecnologías Usadas
 
