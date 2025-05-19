@@ -38,8 +38,8 @@ medallas-olimpicas/
 ```
 ## ✨ Análisis Realizados
 
-- **Análisis General de Medallas:** evolución de las medallas totales por año y país.
 - **Top 10 Países Históricos:** identificación de los países con más medallas en distintos años.
+- **Análisis por continente:** análisis histórico del desempeño olímpico a nivel continental.
 
 
 ## 📊 Visualizaciones Destacadas
