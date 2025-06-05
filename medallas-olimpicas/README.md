@@ -1,6 +1,6 @@
 # Análisis de Medallas Olímpicas
 
-Este proyecto explora los datos históricos de medallas obtenidas por los países en los Juegos Olímpicos (edición verano). Utiliza scraping, limpieza de datos y análisis visual para descubrir patrones, tendencias y comparaciones significativas.
+Este proyecto explora los datos históricos de medallas obtenidas por países participantes en los Juegos Olímpicos (edición verano). Utiliza scraping, limpieza de datos y análisis visual para descubrir patrones, tendencias y comparaciones significativas.
 
 ## 📋 Consideraciones Iniciales
 
